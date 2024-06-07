@@ -24,7 +24,7 @@ npm install -g truffle
 mkdir online-ordering-system
 cd online-ordering-system
 npm install express
-npm uninstall web3
+npm install web3
 truffle init
 ```
 ### 2.Create Smart Contract: In your project directory, navigate to the contracts folder and create or use a file named OnlineOrderingSystem.sol.
