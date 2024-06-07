@@ -16,6 +16,8 @@ Ganache: Download and install Ganache from trufflesuite.com/ganache
 
 Web3js: install 
 
+Express
+
 ### 1.在命令行中執行以下指令, use these cmd code to install necessary packages：
 ```bash
 npm install -g truffle
