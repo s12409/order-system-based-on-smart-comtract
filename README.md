@@ -14,11 +14,15 @@ Truffle: Install Truffle globally using npm
 
 Ganache: Download and install Ganache from trufflesuite.com/ganache
 
+Web3js: install 
+
 ### 1.在命令行中執行以下指令, use these cmd code to install necessary packages：
 ```bash
 npm install -g truffle
 mkdir online-ordering-system
 cd online-ordering-system
+npm install express
+npm uninstall web3
 truffle init
 ```
 ### 2.Create Smart Contract: In your project directory, navigate to the contracts folder and create or use a file named OnlineOrderingSystem.sol.
